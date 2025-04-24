@@ -1,0 +1,12 @@
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\bin\Debug\MorseDecoder.exe.config
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\bin\Debug\MorseDecoder.exe
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\bin\Debug\MorseDecoder.pdb
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\obj\Debug\MorseDecoder.csproj.AssemblyReference.cache
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\obj\Debug\MorseDecoder.Form1.resources
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\obj\Debug\MorseDecoder.Properties.Resources.resources
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\obj\Debug\MorseDecoder.csproj.GenerateResource.cache
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\obj\Debug\MorseDecoder.csproj.CoreCompileInputs.cache
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\obj\Debug\MorseDecoder.exe
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\obj\Debug\MorseDecoder.pdb
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\bin\Debug\dash.wav
+C:\Users\xsile\source\repos\MorseDecoder\MorseDecoder\bin\Debug\dot.wav
